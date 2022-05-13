@@ -10,12 +10,3 @@ const linearSearch = (arr, findingValue) => {
   }
   return -1;
 };
-
-console.log(linearSearch(arr1, 5));
-console.log(linearSearch(arr1, 1));
-console.log(linearSearch(arr1, 87));
-console.log(linearSearch(arr1, 3));
-console.log(linearSearch(arr1, 33));
-console.log(linearSearch(arr1, 36));
-console.log(linearSearch(arr1, 67));
-console.log(linearSearch(arr1, 69));
