@@ -18,7 +18,7 @@ const mergeTwoArray = (arr1, arr2) => {
       j++;
     }
   }
-  console.log(finalArr);
+  return finalArr;
 };
 
 let a = [1, 2, 4, 6];
